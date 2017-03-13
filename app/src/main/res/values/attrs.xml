@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="SpectrumView">
+        <attr name="sv_color" format="color"/>
+        <attr name="sv_note" format="dimension"/>
+        <attr name="sv_space" format="dimension"/>
+        <attr name="sv_line" format="dimension"/>
+    </declare-styleable>
+</resources>
